@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/css/main.f55854c4.css",
-    "main.js": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/js/main.20c5ec0a.js",
-    "static/js/787.cc312ec9.chunk.js": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/js/787.cc312ec9.chunk.js",
-    "index.html": "/Yun-David-Youngjoon/teleprompt-app.github.io/index.html",
-    "main.f55854c4.css.map": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/css/main.f55854c4.css.map",
-    "main.20c5ec0a.js.map": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/js/main.20c5ec0a.js.map",
-    "787.cc312ec9.chunk.js.map": "/Yun-David-Youngjoon/teleprompt-app.github.io/static/js/787.cc312ec9.chunk.js.map"
+    "main.css": "/static/css/main.f55854c4.css",
+    "main.js": "/static/js/main.d7139b80.js",
+    "static/js/787.cc312ec9.chunk.js": "/static/js/787.cc312ec9.chunk.js",
+    "index.html": "/index.html",
+    "main.f55854c4.css.map": "/static/css/main.f55854c4.css.map",
+    "main.d7139b80.js.map": "/static/js/main.d7139b80.js.map",
+    "787.cc312ec9.chunk.js.map": "/static/js/787.cc312ec9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f55854c4.css",
-    "static/js/main.20c5ec0a.js"
+    "static/js/main.d7139b80.js"
   ]
 }
